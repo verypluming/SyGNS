@@ -55,7 +55,7 @@ $ ./fol2drs_for_eval.sh results
 
 ## Citation
 If you use this code in any published research, please cite the following:
-* Hitomi Yanaka, Koji Mineshima, Kentaro Inui, [SyGNS: A Systematic Generalization Testbed Based on Natural Language Semantics]() [arXiv](), Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP2021), 2021.
+* Hitomi Yanaka, Koji Mineshima, Kentaro Inui, [SyGNS: A Systematic Generalization Testbed Based on Natural Language Semantics](https://arxiv.org/abs/2106.01077) [arXiv](https://arxiv.org/abs/2106.01077), Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP2021), 2021.
 
 ```
 @InProceedings{yanaka-EtAl:2021:acl,
