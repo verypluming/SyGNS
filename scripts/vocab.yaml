@@ -1,0 +1,185 @@
+
+
+# Singular Nouns
+- category: nounSing
+  surf:
+  - dog
+  - rabbit
+  - lion
+  - cat
+  - bear
+  - tiger
+  - fox
+  - monkey
+  - bird
+  - horse
+  # - elephant
+  # - wolf
+  # - giraffe
+  # - animal
+  # - creature
+  # - mammal
+  # - beast
+
+# Plural Nouns
+- category: nounPlur
+  surf:
+  - dogs
+  - rabbits
+  - lions
+  - cats
+  - bears
+  - foxes
+  - tigers
+  - monkeys
+  - birds
+  - horses
+  # - elephants
+  # - wolves
+  # - giraffes
+  # - animals
+  # - creatures
+  # - mammals
+  # - beasts
+
+# Proper Name
+- category: pn
+  surf:
+  - ann
+  - bob
+  - chris
+  - daniel
+  - elliot
+  - fred
+  - greg
+  - henry
+  - tom
+  - john
+
+# Singular Determiner
+- category: detSing
+  surf:
+  - every
+  - a
+  - one
+
+
+# Plural Determiner
+- category: detPlur
+  surf:
+  - all
+  - two
+  - three
+
+# - category: whSubj
+#   surf:
+#   - that
+#   # - which
+
+# - category: whObj
+#   surf:
+#   - that
+#   # - which
+
+# Adjectives
+- category: adj
+  surf:
+  - small
+  - large
+  - crazy
+  - polite
+  - wild
+  - young
+  - old
+  - cute
+  - dirty
+  - lazy
+
+# Adverbs
+- category: adv
+  surf:
+  - slowly
+  - quickly
+  - seriously
+  - suddenly
+  - lazily
+  - gracefully
+  - happily
+  - sadly
+  - angrily
+  - calmly
+
+
+# Intransitive Verbs: finite form
+- category: ivFin
+  surf:
+  - ran
+  - walked
+  - came
+  - swam
+  - danced
+  - rushed
+  - escaped
+  - cried
+  - slept
+  - moved
+  # - worked
+  # - laughed
+
+# Intransitive Verbs: infinite form
+- category: ivInf
+  surf:
+  - run
+  - walk
+  - come
+  - swim
+  - dance
+  - rush
+  - escape
+  - cry
+  - sleep
+  - move
+  # - work
+  # - laugh
+
+# Transitive Verbs: finite form
+- category: tvFin
+  surf:
+  - kissed
+  - cleaned
+  - touched
+  - loved
+  - accepted
+  - licked
+  - followed
+  - kicked
+  - chased
+  - liked
+  # - hurt
+  # - hit
+
+# Transitive Verbs: infinite form
+- category: tvInf
+  surf:
+  - kiss
+  - clean
+  - touch
+  - love
+  - accept
+  - lick
+  - follow
+  - kick
+  - chase
+  - like
+  # - hurt
+  # - hit
+
+# Connectives
+- category: conn
+  surf:
+  - and
+  - or
+
+
+
+

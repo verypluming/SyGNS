@@ -1,0 +1,48 @@
+detSing nounSing ivFin 
+detPlur nounPlur ivFin 
+detSing adj nounSing ivFin 
+detPlur adj nounPlur ivFin 
+detSing nounSing ivFin adv 
+detSing nounSing ivFin conn ivFin 
+detPlur nounPlur ivFin adv 
+detPlur nounPlur ivFin conn ivFin 
+detSing adj nounSing ivFin adv 
+detSing adj nounSing ivFin conn ivFin 
+detPlur adj nounPlur ivFin adv 
+detPlur adj nounPlur ivFin conn ivFin 
+pn ivFin 
+pn ivFin adv 
+pn ivFin conn ivFin 
+pn tvFin pn 
+pn tvFin detSing nounSing 
+pn tvFin detPlur nounPlur 
+pn tvFin detSing adj nounSing 
+pn tvFin detPlur adj nounPlur 
+detSing nounSing tvFin pn 
+detPlur nounPlur tvFin pn 
+detSing adj nounSing tvFin pn 
+detPlur adj nounPlur tvFin pn 
+detSing nounSing did not ivInf 
+detPlur nounPlur did not ivInf 
+detSing adj nounSing did not ivInf 
+detPlur adj nounPlur did not ivInf 
+detSing nounSing did not ivInf adv 
+detSing nounSing did not ivInf conn ivInf 
+detPlur nounPlur did not ivInf adv 
+detPlur nounPlur did not ivInf conn ivInf 
+detSing adj nounSing did not ivInf adv 
+detSing adj nounSing did not ivInf conn ivInf 
+detPlur adj nounPlur did not ivInf adv 
+detPlur adj nounPlur did not ivInf conn ivInf 
+pn did not ivInf 
+pn did not ivInf adv 
+pn did not ivInf conn ivInf 
+pn did not tvFin pn 
+pn did not tvInf detSing nounSing 
+pn did not tvInf detPlur nounPlur 
+pn did not tvInf detSing adj nounSing 
+pn did not tvInf detPlur adj nounPlur 
+detSing nounSing did not tvInf pn 
+detPlur nounPlur did not tvInf pn 
+detSing adj nounSing did not tvInf pn 
+detPlur adj nounPlur did not tvInf pn 
