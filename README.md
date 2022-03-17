@@ -70,4 +70,4 @@ If you use this code in any published research, please cite the following:
 For questions and usage issues, please contact hyanaka@is.s.u-tokyo.ac.jp .
 
 ## License
-MIT License
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
